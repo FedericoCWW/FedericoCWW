@@ -12,6 +12,8 @@ You can check my repositories and my linkedin profile where ipost constant upoda
 #### Top Technologies
 
 ![Static Badge](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&labelColor=white)
+![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23013243&labelColor=white)
+![Static Badge](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css&labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/sql-%23003B57?style=for-the-badge&logo=sqlite&labelColor=blue)
