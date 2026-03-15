@@ -1,9 +1,13 @@
-### 🎓 Computer Science Student | Passionate about building efficient solutions and learning new technologies.
+## 🎓 Computer Science Student | Passionate about building efficient solutions and learning new technologies.
 
 - 🔭 I’m currently working on university projects and personal challenges.
 - 🌱 I’m currently learning Data Analisys and Web Development.
 - 👯 I’m looking to collaborate on Open Source projects or IT internships.
 - 🤝 Team player with a strong focus on IT-oriented workflows.
+
+I believe that the success of an IT project depends on the synergy of teamwork and clear communication. I am currently looking for my next career opportunity, where I can contribute my proactive approach and continue to grow in environments that offer significant opportunities for technological learning.
+
+You can check my repositories and my linkedin profile where ipost constant upodates on the proyects i'm working with.
 
 #### Top Technologies
 
